@@ -3,7 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/anirudh90-cell/ClothStore.git",
+  "homepage": "https://anirudh90-cell.github.io/ClothStore",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
